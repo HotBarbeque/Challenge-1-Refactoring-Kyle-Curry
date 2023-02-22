@@ -1,13 +1,14 @@
+/*Below is characteristics for the whole page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*Below sets the background color for the entire body*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Header section below*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*background photo below*/
 .hero {
     height: 800px;
     width: 100%;
