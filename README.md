@@ -6,7 +6,7 @@ In this challenge I was given a webpage and challenged to update the code to mee
 
 ## Screenshot
 
-![Horiseon](assets/images/Screenshot.png)
+![Horiseon](assets/images/Screenshot.PNG)
 
 ## Link to deployed application
 
